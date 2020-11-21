@@ -79,6 +79,7 @@ alert('".$password."');
 			>
 				Show Button
 			</button>
+			<button onclick="myFunction()> Pop UP </button>
 		</div>
 	</div>
 	<!-- <script type="text/javascript" src="app.js"> -->
